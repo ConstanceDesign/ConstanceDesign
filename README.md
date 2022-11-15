@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ConstanceDesign
+- 👀 I’m interested in further developing my React skills
+- 🌱 I’m currently learning React Native
+- 💞️ I’m currently looking to collaborate as a front-end developer
+- 📫 How to reach me ... through my website: constance.design
