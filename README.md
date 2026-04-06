@@ -1,5 +1,17 @@
-- 👋 Hi, I’m @ConstanceDesign
-- 👀 I’m interested in further developing my React skills
-- 🌱 I’m currently learning React Native
-- 💞️ I’m currently looking to collaborate as a front-end developer
-- 📫 How to reach me ... through my website: constance.design
+## Hi, I’m Constance Zonta
+
+Full-Stack Developer and Registered Graphic Designer specializing in front-end development, UX/UI, and high-impact digital design systems.
+
+### Core stack
+- React
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- Node.js / Express
+- HTML / CSS / SCSS
+
+### Focus
+I build polished, accessible, user-focused digital experiences with strong visual design and front-end execution.
+
+### Portfolio
+[constance.design](http://constance.design)
