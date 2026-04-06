@@ -6,8 +6,8 @@ Full-Stack Developer and Registered Graphic Designer specializing in front-end d
 - React
 - TypeScript
 - JavaScript
-- Tailwind CSS
 - Node.js / Express
+- Tailwind CSS
 - HTML / CSS / SCSS
 
 ### Focus
